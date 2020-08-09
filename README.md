@@ -44,7 +44,7 @@
 ---
 
 [![AlexanderEDavis' github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AlexanderEDavis)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AlexanderEDavis)](https://github.com/AlexanderEDavis)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderEDavis)](https://github.com/AlexanderEDavis)]
 
 [website]: https://www.mrdavis.work
 [twitter]: https://twitter.com/mrdaviscsit
