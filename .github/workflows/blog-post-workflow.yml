@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "TWEET-POST-LIST"
           commit_message: "Updated readme with the latest tweets"
-          feed_list: "https://twitrss.me/twitter_user_to_rss/?user=MrDavisCSIT"
+          feed_list: "http://fetchrss.com/rss/5f3051258a93f8b6068b45685f30510c8a93f84f098b4567.xml"
