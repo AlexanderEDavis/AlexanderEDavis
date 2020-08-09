@@ -1,12 +1,13 @@
-name: Latest blog post workflow
+name: Latest tweets workflow
 on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+    workflow-despatch
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest tweets
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
