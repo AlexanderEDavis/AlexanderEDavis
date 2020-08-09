@@ -43,7 +43,7 @@
 
 ---
 
-[![AlexanderEDavis' github stats](https://github-readme-stats.vercel.app/api?username=AlexanderEDavis)](https://github.com/AlexanderEDavis)
+[![AlexanderEDavis' github stats](https://github-readme-stats.vercel.app/api?username=AlexanderEDavis&count_private=true&show_icons=true)](https://github.com/AlexanderEDavis)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderEDavis)](https://github.com/AlexanderEDavis)
 
 [website]: https://www.mrdavis.work
