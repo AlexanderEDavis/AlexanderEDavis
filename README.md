@@ -43,12 +43,8 @@
 
 ---
 
-<a href="https://github.com/AlexanderEDavis">
   ![AlexanderEDavis' github stats](https://github-readme-stats.vercel.app/api?username=AlexanderEDavis&count_private=true&show_icons=true)
-</a>
-<a href="https://github.com/AlexanderEDavis">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AlexanderEDavis)](https://github.com/AlexanderEDavis)
-</a>
 
 [website]: https://www.mrdavis.work
 [twitter]: https://twitter.com/mrdaviscsit
