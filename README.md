@@ -38,7 +38,12 @@
 
 ---
 
-<img align="left" alt="AlexanderEDavis' Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlexanderEDavis&show_icons=true&hide_border=true" />
+<a href="https://github.com/AlexanderEDavis">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderEDavis&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/aAlexanderEDavis">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderEDavis&repo=convoychat" />
+</a>
 
 [website]: https://www.mrdavis.work
 [twitter]: https://twitter.com/mrdaviscsit
