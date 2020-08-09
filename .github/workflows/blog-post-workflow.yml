@@ -3,10 +3,10 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
-    workflow-despatch
+    workflow-despatch:
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-tweets:
     name: Update this repo's README with latest tweets
     runs-on: ubuntu-latest
     steps:
