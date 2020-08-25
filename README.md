@@ -33,6 +33,11 @@
 
 ---
 
+### 📋 Latest GitHub Activity
+<!--START_SECTION:activity-->
+
+---
+
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
 - [Finally completed both the London and Paris challenges for Operation Bletchley. You can still donate at https://t.co/HZjpGLUy1b https://t.co/WhquidexUw](https://twitter.com/MrDavisCSIT/status/1287420250905030656)
