@@ -35,11 +35,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com//luketainton/FHeD/issues/100) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
-2. 🗣 Commented on [#131](https://github.com//luketainton/FHeD/issues/131) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
-3. 🗣 Commented on [#444](https://github.com//sismics/docs/issues/444) in [sismics/docs](https://github.com//sismics/docs)
-4. 🗣 Commented on [#444](https://github.com//sismics/docs/issues/444) in [sismics/docs](https://github.com//sismics/docs)
-5. ❗️ Reopened issue [#444](https://github.com//sismics/docs/issues/444) in [sismics/docs](https://github.com//sismics/docs)
+1. 🎉 Merged PR [#132](https://github.com//luketainton/FHeD/pull/132) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+2. ❗️ Closed issue [#117](https://github.com//luketainton/FHeD/issues/117) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+3. 🗣 Commented on [#100](https://github.com//luketainton/FHeD/issues/100) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+4. 🗣 Commented on [#131](https://github.com//luketainton/FHeD/issues/131) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+5. 🗣 Commented on [#444](https://github.com//sismics/docs/issues/444) in [sismics/docs](https://github.com//sismics/docs)
 <!--END_SECTION:activity-->
 
 ---
