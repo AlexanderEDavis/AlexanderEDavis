@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [resource website for students][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other casual developers
-- ⚡ Fun fact: I love to draw and play guitar / piano
+- ⚡ Fun fact: I love to code and play guitar / piano
 
 ### Connect with me:
 
