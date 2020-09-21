@@ -46,11 +46,11 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
-- [Finally completed both the London and Paris challenges for Operation Bletchley. You can still donate at https://t.co/HZjpGLUy1b https://t.co/WhquidexUw](https://twitter.com/MrDavisCSIT/status/1287420250905030656)
-- [Keep getting ghosted by @virginmedia   Website told me to text you guys because I all of a sudden cannot access my account on line. Last message from them was Friday... still can’t access my account...](https://twitter.com/MrDavisCSIT/status/1283179443046027265)
-- [Just nominated @thersaacademy to win. Win £5,000 for your school's library! Nominate your school to win and you could take home £100 of National Book Tokens just for you: https://t.co/Czl2Vm0muh](https://twitter.com/MrDavisCSIT/status/1281291057532219398)
-- [BBC removes Little Britain and Come Fly with Me from streaming services due to use of black face. Yet an episode of That Mitchell and Webb look that contains characters with blackface still remains on BritBox...](https://twitter.com/MrDavisCSIT/status/1279894626527326209)
-- [I'm supporting the amazing work of ABF The Soldiers' Charity through this difficult time. Please join me and donate if you can! ✊🏻 #postivepostcards https://t.co/kNAFKIQDTi](https://twitter.com/MrDavisCSIT/status/1279472328347451393)
+- [Finally completed both the London and Paris challenges for Operation Bletchley. You can still donate at https://t.co/HZjpGLUy1b ...](https://twitter.com/MrDavisCSIT/status/1287420250905030656)
+- [Keep getting ghosted by @virginmedia   Website told me to text you guys because I all of a sudden cannot access my account on li...](https://twitter.com/MrDavisCSIT/status/1283179443046027265)
+- [Just nominated @thersaacademy to win. Win £5,000 for your school's library! Nominate your school to win and you could take home ...](https://twitter.com/MrDavisCSIT/status/1281291057532219398)
+- [BBC removes Little Britain and Come Fly with Me from streaming services due to use of black face. Yet an episode of That Mitchel...](https://twitter.com/MrDavisCSIT/status/1279894626527326209)
+- [I'm supporting the amazing work of ABF The Soldiers' Charity through this difficult time. Please join me and donate if you can! ...](https://twitter.com/MrDavisCSIT/status/1279472328347451393)
 <!-- TWEET-POST-LIST:END -->
 
 ---
