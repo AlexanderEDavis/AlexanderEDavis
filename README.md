@@ -35,11 +35,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#143](https://github.com/ciur/papermerge/issues/143) in [ciur/papermerge](https://github.com/ciur/papermerge)
-2. 🗣 Commented on [#93](https://github.com/ciur/papermerge/issues/93) in [ciur/papermerge](https://github.com/ciur/papermerge)
-3. 🎉 Merged PR [#138](https://github.com/luketainton/FHeD/pull/138) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-4. 🎉 Merged PR [#1](https://github.com/AlexanderEDavis/AlexanderEDavis/pull/1) in [AlexanderEDavis/AlexanderEDavis](https://github.com/AlexanderEDavis/AlexanderEDavis)
-5. 💪 Opened PR [#1](https://github.com/AlexanderEDavis/AlexanderEDavis/pull/1) in [AlexanderEDavis/AlexanderEDavis](https://github.com/AlexanderEDavis/AlexanderEDavis)
+1. ❗️ Opened issue [#150](https://github.com/ciur/papermerge/issues/150) in [ciur/papermerge](https://github.com/ciur/papermerge)
+2. ❗️ Opened issue [#143](https://github.com/ciur/papermerge/issues/143) in [ciur/papermerge](https://github.com/ciur/papermerge)
+3. 🗣 Commented on [#93](https://github.com/ciur/papermerge/issues/93) in [ciur/papermerge](https://github.com/ciur/papermerge)
+4. 🎉 Merged PR [#138](https://github.com/luketainton/FHeD/pull/138) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+5. 🎉 Merged PR [#1](https://github.com/AlexanderEDavis/AlexanderEDavis/pull/1) in [AlexanderEDavis/AlexanderEDavis](https://github.com/AlexanderEDavis/AlexanderEDavis)
 <!--END_SECTION:activity-->
 
 ---
