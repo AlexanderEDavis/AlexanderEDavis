@@ -35,11 +35,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#150](https://github.com/ciur/papermerge/issues/150) in [ciur/papermerge](https://github.com/ciur/papermerge)
-2. ❗️ Opened issue [#143](https://github.com/ciur/papermerge/issues/143) in [ciur/papermerge](https://github.com/ciur/papermerge)
-3. 🗣 Commented on [#93](https://github.com/ciur/papermerge/issues/93) in [ciur/papermerge](https://github.com/ciur/papermerge)
-4. 🎉 Merged PR [#138](https://github.com/luketainton/FHeD/pull/138) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-5. 🎉 Merged PR [#1](https://github.com/AlexanderEDavis/AlexanderEDavis/pull/1) in [AlexanderEDavis/AlexanderEDavis](https://github.com/AlexanderEDavis/AlexanderEDavis)
+1. 🎉 Merged PR [#141](https://github.com/luketainton/FHeD/pull/141) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+2. ❗️ Closed issue [#140](https://github.com/luketainton/FHeD/issues/140) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+3. ❗️ Opened issue [#150](https://github.com/ciur/papermerge/issues/150) in [ciur/papermerge](https://github.com/ciur/papermerge)
+4. ❗️ Opened issue [#143](https://github.com/ciur/papermerge/issues/143) in [ciur/papermerge](https://github.com/ciur/papermerge)
+5. 🗣 Commented on [#93](https://github.com/ciur/papermerge/issues/93) in [ciur/papermerge](https://github.com/ciur/papermerge)
 <!--END_SECTION:activity-->
 
 ---
