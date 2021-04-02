@@ -2,7 +2,7 @@ name: Latest tweets workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 0/6 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "TWEET-POST-LIST"
           commit_message: "Updated readme with the latest tweets"
-          feed_list: "http://fetchrss.com/rss/5f3051258a93f8b6068b45685f30510c8a93f84f098b4567.xml"
+          feed_list: "https://birdsite.xanny.family/MrDavisCSIT/rss"
