@@ -60,11 +60,11 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
-- [RT @dylanbeattie: Just saw a tweet that said "Stay at 127.0.0.1. Wear a 255.0.0.0" and I'm like... that's a class A subnet. That...](https://twitter.com/MrDavisCSIT/status/1312769951598555137)
-- [Finally completed both the London and Paris challenges for Operation Bletchley. You can still donate at https://t.co/HZjpGLUy1b ...](https://twitter.com/MrDavisCSIT/status/1287420250905030656)
-- [Keep getting ghosted by @virginmedia   Website told me to text you guys because I all of a sudden cannot access my account on li...](https://twitter.com/MrDavisCSIT/status/1283179443046027265)
-- [Just nominated @thersaacademy to win. Win £5,000 for your school's library! Nominate your school to win and you could take home ...](https://twitter.com/MrDavisCSIT/status/1281291057532219398)
-- [BBC removes Little Britain and Come Fly with Me from streaming services due to use of black face. Yet an episode of That Mitchel...](https://twitter.com/MrDavisCSIT/status/1279894626527326209)
+- [Anyone @AcerUK_Official willing to tell me when I’m getting my laptop repaired and sent back to me? Been waiting since 22/01 for it! Would have actually been quicker to save up for a brand new laptop and scrap that rubbish...](http://birdsite.xanny.family/MrDavisCSIT/status/1362527057926901762#m)
+- [youtu.be/xooJ1rnf8N8](http://birdsite.xanny.family/MrDavisCSIT/status/1353677971136126976#m)
+- [RT by @MrDavisCSIT: You remember when Trump refused to commit to a peaceful transfer of power, and now there are terrorists wearing his merch on the senate floor that have actually stopped the peaceful transfer of power?](http://birdsite.xanny.family/DanNerdCubed/status/1346922647746179074#m)
+- [Anyone @StarlingBank able to explain how £1300 has evaporated from my app but not my statement?](http://birdsite.xanny.family/MrDavisCSIT/status/1343526560075309059#m)
+- [Petition: Prioritise teachers, school and childcare staff for Covid-19 vaccination https://petition.parliament.uk/petitions/554316](http://birdsite.xanny.family/MrDavisCSIT/status/1340718830625169408#m)
 <!-- TWEET-POST-LIST:END -->
 
 ---
