@@ -43,7 +43,7 @@
 ---
 
 ### 📻 Now Playing on Spotify
-[![Spotify](https://spotify-now-playing-m0uqof7qb-alexanderedavis.vercel.app)](https://open.spotify.com/user/alex_davis95)
+[![Spotify](https://adcm-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/alex_davis95)
 
 ---
 
