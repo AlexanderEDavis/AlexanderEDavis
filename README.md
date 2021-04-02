@@ -69,10 +69,16 @@
 
 ---
 
+![visitors](https://visitor-badge.glitch.me/badge?AlexanderEDavis=AlexanderEDavis)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderedavis&theme=dark" alt="alexanderedavis" /></p
 
 [![AlexanderEDavis' github stats](https://github-readme-stats.alexanderedavis.vercel.app/api?username=AlexanderEDavis&count_private=true&show_icons=true&theme=dark&locale=en)](https://github.com/AlexanderEDavis)
 [![Top Langs](https://github-readme-stats.alexanderedavis.vercel.app/api/top-langs/?username=AlexanderEDavis&show_icons=true&theme=dark&locale=en&layout=compact)](https://github.com/AlexanderEDavis)
+
+---
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 [website]: https://www.mrdavis.work
 [twitter]: https://twitter.com/mrdaviscsit
