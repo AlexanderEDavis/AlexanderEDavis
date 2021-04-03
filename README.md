@@ -49,7 +49,7 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#141](https://github.com/luketainton/FHeD/pull/141) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+1. 🗣 Commented on [#455](https://github.com/khanhas/spicetify-cli/issues/455) in [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli)
 2. ❗️ Closed issue [#140](https://github.com/luketainton/FHeD/issues/140) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
 3. ❗️ Opened issue [#150](https://github.com/ciur/papermerge/issues/150) in [ciur/papermerge](https://github.com/ciur/papermerge)
 4. ❗️ Opened issue [#143](https://github.com/ciur/papermerge/issues/143) in [ciur/papermerge](https://github.com/ciur/papermerge)
