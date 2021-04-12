@@ -60,11 +60,11 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
+- [Wanted to check on the progress of something with @AskNationwide, everyone who I spoke to knew what I was looking for and even when they couldn't help me directly, they tried to get it sorted without even needing me to tell them #QualityService](http://birdsite.xanny.family/MrDavisCSIT/status/1381522342711541761#m)
+- [First gym session since before Christmas... very nervous as expecting to feel the burn tomorrow morning!](http://birdsite.xanny.family/MrDavisCSIT/status/1381521750387724288#m)
 - [Anyone @AcerUK_Official willing to tell me when I’m getting my laptop repaired and sent back to me? Been waiting since 22/01 for it! Would have actually been quicker to save up for a brand new laptop and scrap that rubbish...](http://birdsite.xanny.family/MrDavisCSIT/status/1362527057926901762#m)
 - [youtu.be/xooJ1rnf8N8](http://birdsite.xanny.family/MrDavisCSIT/status/1353677971136126976#m)
 - [RT by @MrDavisCSIT: You remember when Trump refused to commit to a peaceful transfer of power, and now there are terrorists wearing his merch on the senate floor that have actually stopped the peaceful transfer of power?](http://birdsite.xanny.family/DanNerdCubed/status/1346922647746179074#m)
-- [Anyone @StarlingBank able to explain how £1300 has evaporated from my app but not my statement?](http://birdsite.xanny.family/MrDavisCSIT/status/1343526560075309059#m)
-- [Petition: Prioritise teachers, school and childcare staff for Covid-19 vaccination https://petition.parliament.uk/petitions/554316](http://birdsite.xanny.family/MrDavisCSIT/status/1340718830625169408#m)
 <!-- TWEET-POST-LIST:END -->
 
 ---
