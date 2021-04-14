@@ -60,11 +60,11 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
-- [Wanted to check on the progress of something with @AskNationwide, everyone who I spoke to knew what I was looking for and even when they couldn't help me directly, they tried to get it sorted without even needing me to tell them #QualityService](http://birdsite.xanny.family/MrDavisCSIT/status/1381522342711541761#m)
-- [First gym session since before Christmas... very nervous as expecting to feel the burn tomorrow morning!](http://birdsite.xanny.family/MrDavisCSIT/status/1381521750387724288#m)
-- [Anyone @AcerUK_Official willing to tell me when I’m getting my laptop repaired and sent back to me? Been waiting since 22/01 for it! Would have actually been quicker to save up for a brand new laptop and scrap that rubbish...](http://birdsite.xanny.family/MrDavisCSIT/status/1362527057926901762#m)
-- [youtu.be/xooJ1rnf8N8](http://birdsite.xanny.family/MrDavisCSIT/status/1353677971136126976#m)
-- [RT by @MrDavisCSIT: You remember when Trump refused to commit to a peaceful transfer of power, and now there are terrorists wearing his merch on the senate floor that have actually stopped the peaceful transfer of power?](http://birdsite.xanny.family/DanNerdCubed/status/1346922647746179074#m)
+- [R to @MrDavisCSIT: I really am sorry for those who took the time to read my lengthy rant/thread and already agree with my views however I feel that a lot of media outlets are currently focusing on the news coverage rather than the actual legacy. (13/13)](http://birdsite.xanny.family/MrDavisCSIT/status/1382259590063087617#m)
+- [R to @MrDavisCSIT: If you have a serious issue with missing out on your endless repeats of Bargain Hunt, Flog It. Just watch something else. (12/13)](http://birdsite.xanny.family/MrDavisCSIT/status/1382259588775432192#m)
+- [R to @MrDavisCSIT: For those who are complaining about the BBC covering the sad death within the royal family, please remember they are legally required to do so under the royal charter. (11/13)](http://birdsite.xanny.family/MrDavisCSIT/status/1382259586703441920#m)
+- [R to @MrDavisCSIT: I urge those who still have this mark of respect to ensure that they allow their users, especially those with a visual impairment to use the accessibility features that are legally required. (10/13)](http://birdsite.xanny.family/MrDavisCSIT/status/1382259585193537537#m)
+- [R to @MrDavisCSIT: These changes as a mark of respect inadvertently break the law (https://www.theguardian.com/uk-news/2021/apr/12/visually-impaired-users-complain-rail-websites-greyscale-prince-philip) (9/13)](http://birdsite.xanny.family/MrDavisCSIT/status/1382259583465492484#m)
 <!-- TWEET-POST-LIST:END -->
 
 ---
