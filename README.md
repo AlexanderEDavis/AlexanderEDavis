@@ -60,11 +60,11 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
-- [Hey @moneyboxteam, I use @emma_finance to save and manage my money. It would be great to see you joining the party! 🐻🎉 #OpenAPIs https://emma-app.com](http://birdsite.xanny.family/MrDavisCSIT/status/1382706889352429568#m)
-- [R to @MrDavisCSIT: I really am sorry for those who took the time to read my lengthy rant/thread and already agree with my views however I feel that a lot of media outlets are currently focusing on the news coverage rather than the actual legacy. (13/13)](http://birdsite.xanny.family/MrDavisCSIT/status/1382259590063087617#m)
-- [R to @MrDavisCSIT: If you have a serious issue with missing out on your endless repeats of Bargain Hunt, Flog It. Just watch something else. (12/13)](http://birdsite.xanny.family/MrDavisCSIT/status/1382259588775432192#m)
-- [R to @MrDavisCSIT: For those who are complaining about the BBC covering the sad death within the royal family, please remember they are legally required to do so under the royal charter. (11/13)](http://birdsite.xanny.family/MrDavisCSIT/status/1382259586703441920#m)
-- [R to @MrDavisCSIT: I urge those who still have this mark of respect to ensure that they allow their users, especially those with a visual impairment to use the accessibility features that are legally required. (10/13)](http://birdsite.xanny.family/MrDavisCSIT/status/1382259585193537537#m)
+- [@MrDavisCSIT: Hey @moneyboxteam, I use @emma_finance to save and manage my money. It would be great to see you joining the party! 🐻🎉 #OpenAPIs](https://twitter.com/MrDavisCSIT/status/1382706889352429568)
+- [@MrDavisCSIT: I really am sorry for those who took the time to read my lengthy rant/thread and already agree with my views however I feel that a lot of media outlets are currently focusing on the news coverage rather than the actual legacy. (13/13)](https://twitter.com/MrDavisCSIT/status/1382259590063087617)
+- [@MrDavisCSIT: If you have a serious issue with missing out on your endless repeats of Bargain Hunt, Flog It. Just watch something else. (12/13)](https://twitter.com/MrDavisCSIT/status/1382259588775432192)
+- [@MrDavisCSIT: For those who are complaining about the BBC covering the sad death within the royal family, please remember they are legally required to do so under the royal charter. (11/13)](https://twitter.com/MrDavisCSIT/status/1382259586703441920)
+- [@MrDavisCSIT: I urge those who still have this mark of respect to ensure that they allow their users, especially those with a visual impairment to use the accessibility features that are legally required. (10/13)](https://twitter.com/MrDavisCSIT/status/1382259585193537537)
 <!-- TWEET-POST-LIST:END -->
 
 ---
