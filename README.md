@@ -60,11 +60,7 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
-- [@MrDavisCSIT: First hand experience of having to use NHS emergency services during the pandemic. Burnt my hand cooking and 111 online told me to go to A&E. in and out within 30 minutes with guidance. Proud it’s still here #ThankYouNHS](https://twitter.com/MrDavisCSIT/status/1384238536400932864)
-- [@MrDavisCSIT: Hey @moneyboxteam, I use @emma_finance to save and manage my money. It would be great to see you joining the party! 🐻🎉 #OpenAPIs](https://twitter.com/MrDavisCSIT/status/1382706889352429568)
-- [@MrDavisCSIT: I really am sorry for those who took the time to read my lengthy rant/thread and already agree with my views however I feel that a lot of media outlets are currently focusing on the news coverage rather than the actual legacy. (13/13)](https://twitter.com/MrDavisCSIT/status/1382259590063087617)
-- [@MrDavisCSIT: If you have a serious issue with missing out on your endless repeats of Bargain Hunt, Flog It. Just watch something else. (12/13)](https://twitter.com/MrDavisCSIT/status/1382259588775432192)
-- [@MrDavisCSIT: For those who are complaining about the BBC covering the sad death within the royal family, please remember they are legally required to do so under the royal charter. (11/13)](https://twitter.com/MrDavisCSIT/status/1382259586703441920)
+- [[Action required] Your RSS.app Trial has Expired - Sat Apr 24 2021](https://rss.app)
 <!-- TWEET-POST-LIST:END -->
 
 ---
