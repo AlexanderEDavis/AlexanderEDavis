@@ -60,7 +60,7 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat May 08 2021](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Sun May 09 2021](https://rss.app)
 <!-- TWEET-POST-LIST:END -->
 
 ---
