@@ -1,20 +1,14 @@
-name: Profile Update
+name: Profile Update - GitHub Activity
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    name: Update this repo's README with recent tweets
 
   update-readme-with-tweets:
     name: Update this repo's README with latest tweets
@@ -25,4 +19,4 @@ jobs:
         with:
           comment_tag_name: "TWEET-POST-LIST"
           commit_message: "Updated readme with the latest tweets"
-          feed_list: "https://rss.app/feeds/BAQJEewyJyi0AYE0.xml"
+          feed_list: "https://rss.app/feeds/jBBk0EhiNYNegAAf.xml"
