@@ -49,11 +49,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AlexanderEDavis/smartmeter/pull/2) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
-2. 💪 Opened PR [#2](https://github.com/AlexanderEDavis/smartmeter/pull/2) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
-3. 🎉 Merged PR [#1](https://github.com/AlexanderEDavis/smartmeter/pull/1) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
-4. ❗️ Opened issue [#1](https://github.com/gjlipman/smartmeter/issues/1) in [gjlipman/smartmeter](https://github.com/gjlipman/smartmeter)
-5. 🎉 Merged PR [#2](https://github.com/AlexanderEDavis/AlexanderEDavis/pull/2) in [AlexanderEDavis/AlexanderEDavis](https://github.com/AlexanderEDavis/AlexanderEDavis)
+1. 🎉 Merged PR [#3](https://github.com/AlexanderEDavis/smartmeter/pull/3) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
+2. 💪 Opened PR [#3](https://github.com/AlexanderEDavis/smartmeter/pull/3) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
+3. 🎉 Merged PR [#2](https://github.com/AlexanderEDavis/smartmeter/pull/2) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
+4. 💪 Opened PR [#2](https://github.com/AlexanderEDavis/smartmeter/pull/2) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
+5. 🎉 Merged PR [#1](https://github.com/AlexanderEDavis/smartmeter/pull/1) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
 <!--END_SECTION:activity-->
 
 ---
