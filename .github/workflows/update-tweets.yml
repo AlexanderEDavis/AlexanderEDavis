@@ -1,4 +1,4 @@
-name: Profile Update - GitHub Activity
+name: Profile Update - Twitter Feed
 
 on:
   schedule:
