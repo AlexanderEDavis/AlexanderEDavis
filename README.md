@@ -49,9 +49,9 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#455](https://github.com/khanhas/spicetify-cli/issues/455) in [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli)
-2. ❗️ Closed issue [#140](https://github.com/luketainton/FHeD/issues/140) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-3. ❗️ Opened issue [#150](https://github.com/ciur/papermerge/issues/150) in [ciur/papermerge](https://github.com/ciur/papermerge)
+1. 🎉 Merged PR [#2](https://github.com/AlexanderEDavis/AlexanderEDavis/pull/2) in [AlexanderEDavis/AlexanderEDavis](https://github.com/AlexanderEDavis/AlexanderEDavis)
+2. 💪 Opened PR [#2](https://github.com/AlexanderEDavis/AlexanderEDavis/pull/2) in [AlexanderEDavis/AlexanderEDavis](https://github.com/AlexanderEDavis/AlexanderEDavis)
+3. 🗣 Commented on [#455](https://github.com/khanhas/spicetify-cli/issues/455) in [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli)
 4. ❗️ Opened issue [#143](https://github.com/ciur/papermerge/issues/143) in [ciur/papermerge](https://github.com/ciur/papermerge)
 5. 🗣 Commented on [#93](https://github.com/ciur/papermerge/issues/93) in [ciur/papermerge](https://github.com/ciur/papermerge)
 <!--END_SECTION:activity-->
