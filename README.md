@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [resource website for students](https://www.revisiquiz.com)
 
-- 🌱 I’m currently learning **HTML5 and CSS3**
+- 🌱 I’m currently learning **SQL, HTML5 and CSS3**
 
-- 👯 I’m looking to collaborate with **other casual developers**
+- 👯 I’m looking to collaborate with **other casual developers and teachers**
 
 - 🤝 I’m looking for help with **developing a quiz platform for revision**
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **what I teach my students**
 
-- 📫 How to reach me **design@adcm.uk**
+- 📫 You can reach me by emailing **design@adcm.uk**
 
 - ⚡ Fun fact **I love to code and play guitar / piano**
 
