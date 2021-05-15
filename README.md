@@ -26,7 +26,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Resource Central" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="RevisiQuiz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MrDavisCSIT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AlexanderEDavis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlexanderEDavis | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />][pubkey]
@@ -80,7 +80,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-[website]: https://www.mrdavis.work
+[website]: https://www.revisiquiz.com
 [twitter]: https://twitter.com/mrdaviscsit
 [linkedin]: https://www.linkedin.com/in/alexanderedavis/
 [pubkey]: https://raw.githubusercontent.com/AlexanderEDavis/AlexanderEDavis/master/public.asc
