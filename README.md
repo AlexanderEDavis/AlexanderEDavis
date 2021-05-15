@@ -8,7 +8,7 @@
 
 ## I'm a Developer and Teacher!
 
-- 🔭 I’m currently working on [resource website for students](https://www.mrdavis.work)
+- 🔭 I’m currently working on [resource website for students](https://www.revisiquiz.com)
 
 - 🌱 I’m currently learning **HTML5 and CSS3**
 
@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **developing a quiz platform for revision**
 
-- 👨‍💻 All of my projects will be available at [www.adcm.uk](www.adcm.uk)
+- 👨‍💻 All of my projects will be available at [www.adcm.uk](www.adcm.uk) when I get the time to create the site
 
 - 💬 Ask me about **what I teach my students**
 
