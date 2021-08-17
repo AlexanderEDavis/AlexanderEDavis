@@ -2,7 +2,7 @@ name: Profile Update - Twitter Feed
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "TWEET-POST-LIST"
           commit_message: "Updated readme with the latest tweets"
-          feed_list: "https://rss.app/feeds/jBBk0EhiNYNegAAf.xml"
+          feed_list: "https://rss.app/feeds/ULTQu7BCpB4RTHZD.xml"
