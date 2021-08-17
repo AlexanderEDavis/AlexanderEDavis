@@ -8,7 +8,7 @@
 
 ## I'm a Developer and Teacher!
 
-- 🔭 I’m currently working on [resource website for students](https://www.revisiquiz.com)
+- 🔭 I’m currently working on [resource website for students][website]
 
 - 🌱 I’m currently learning **SQL, HTML5 and CSS3**
 
@@ -29,7 +29,7 @@
 [<img align="left" alt="RevisiQuiz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MrDavisCSIT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AlexanderEDavis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AlexanderEDavis | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />][pubkey]
+<!--[<img align="left" alt="AlexanderEDavis | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />][pubkey]-->
 
 <br />
 
