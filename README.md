@@ -60,11 +60,11 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
+- [@MrDavisCSIT: Waiting for my order from @cpc_tweet. Such a reliable company… shame they used @UPS as they have lost my order…](https://twitter.com/MrDavisCSIT/status/1431303866184867854)
 - [@MrDavisCSIT: Let’s start to the day with @virginmedia’s unannounced disconnection of everyone’s internet in our building to ‘provide a better service’. Only way to get a better service is by not going with Virgin in the first place. Especially when the vast majority of us are still WFH!](https://twitter.com/MrDavisCSIT/status/1430451998911090690)
 - [@MrDavisCSIT: Anyone @WestMidRailway willing to explain how my £2.60 ticket which caused me to miss my £60 train only entitles me to a refund of 65p?!](https://twitter.com/MrDavisCSIT/status/1426267404603170818)
 - [@MrDavisCSIT: Fantastic few days in Liverpool with the other half! One more day to go before heading home @ Liverpool](https://twitter.com/MrDavisCSIT/status/1424496890561896449)
 - [@MrDavisCSIT: Currently sat in Pizza Hut in Wednesbury and this is not only the best post-covid customer service I have had but probably one of the best in a very, very long time. They deserved my tip tonight! @pizzahutuk anyone able to signpost me where I can leave feedback?](https://twitter.com/MrDavisCSIT/status/1419356008762249218)
-- [@MrDavisCSIT: Finally finished making a binary lightbox for @thersaacademy. Code can be found on GitHub](https://twitter.com/MrDavisCSIT/status/1406289301391003653)
 <!-- TWEET-POST-LIST:END -->
 
 ---
