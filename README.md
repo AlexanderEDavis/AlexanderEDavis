@@ -60,11 +60,11 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
+- [@MrDavisCSIT: My first week back in school was intense! But I still want to go back tomorrow. Teachers are there for the pay check and the holidays. Educators are there to change lives](https://twitter.com/MrDavisCSIT/status/1437011406256279554)
+- [@Gospel_Oak_: Exciting opportunity to join our new school as Senior Vice Principal:Advert:  pack:  form:](https://twitter.com/Gospel_Oak_/status/1436962304118202370)
 - [@MrDavisCSIT: Do you remember when you joined Twitter? I do! #MyTwitterAnniversary](https://twitter.com/MrDavisCSIT/status/1436220056275406848)
 - [@MrDavisCSIT: Never known it to be so difficult to cancel an appointment with @SkyUK where they won’t let me even cancel through an automated system and force me to do everything online which tells me to call the number which tells me to go online…](https://twitter.com/MrDavisCSIT/status/1434523560698056708)
 - [@MrDavisCSIT: Update: @UPS suddenly found the parcel in the van that was 20 minutes ago empty. They also admitted to fraudulently completing a proof of delivery certificate...](https://twitter.com/MrDavisCSIT/status/1431323850801926147)
-- [@MrDavisCSIT: Waiting for my order from @cpc_tweet. Such a reliable company… shame they used @UPS as they have lost my order…](https://twitter.com/MrDavisCSIT/status/1431303866184867854)
-- [@MrDavisCSIT: Let’s start to the day with @virginmedia’s unannounced disconnection of everyone’s internet in our building to ‘provide a better service’. Only way to get a better service is by not going with Virgin in the first place. Especially when the vast majority of us are still WFH!](https://twitter.com/MrDavisCSIT/status/1430451998911090690)
 <!-- TWEET-POST-LIST:END -->
 
 ---
