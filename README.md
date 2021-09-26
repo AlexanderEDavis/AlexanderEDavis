@@ -60,11 +60,11 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
+- [@MrDavisCSIT: Thank you @NEUnion for the opportunity to volunteer for #birminghampride2021. It’s been an Amazon first pride for us](https://twitter.com/MrDavisCSIT/status/1442174099145510914)
 - [@MrDavisCSIT: Just received my kickstarter refund from @MrBarryLewis. Such a shame he has decided to call it quits on his project. I hope you do it again when the time is right! Would defo be funding that!](https://twitter.com/MrDavisCSIT/status/1442169138298896385)
 - [@Gospel_Oak_: We’ve raised over £800 today for Jeans for Genes! Well done to Gospel Oak Students 😊 #respect](https://twitter.com/Gospel_Oak_/status/1438891300217032729)
 - [@MrDavisCSIT: My first week back in school was intense! But I still want to go back tomorrow. Teachers are there for the pay check and the holidays. Educators are there to change lives](https://twitter.com/MrDavisCSIT/status/1437011406256279554)
 - [@Gospel_Oak_: Exciting opportunity to join our new school as Senior Vice Principal:Advert:  pack:  form:](https://twitter.com/Gospel_Oak_/status/1436962304118202370)
-- [@MrDavisCSIT: Do you remember when you joined Twitter? I do! #MyTwitterAnniversary](https://twitter.com/MrDavisCSIT/status/1436220056275406848)
 <!-- TWEET-POST-LIST:END -->
 
 ---
