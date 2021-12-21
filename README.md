@@ -76,7 +76,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-[website]: https://www.revisiquiz.com
+[website]: https://www.reviseit.uk
 [twitter]: https://twitter.com/mrdaviscsit
 [linkedin]: https://www.linkedin.com/in/alexanderedavis/
 [pubkey]: https://raw.githubusercontent.com/AlexanderEDavis/AlexanderEDavis/master/public.asc
