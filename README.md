@@ -60,7 +60,11 @@
 
 ### 🐤 Latest Tweets
 <!-- TWEET-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Tue Dec 21 2021](https://rss.app)
+- [RT by @MrDavisCSIT: It&#39;s &quot;alarming&quot; that some ITE providers are &quot;selling&quot; a fixed view of pedagogy, risking “misinforming” trainees&#39; future classroom practice, @Ofstednews has warned: https://www.tes.com/news/ofsted-alarm-teacher-trainers-selling-one-pedagogy](https://nitter.net/tes/status/1463169419681665027#m)
+- [RT by @MrDavisCSIT: Coding of ‘last post’ for #RemembranceDay using the @microbit_edu Vs2. @whaleygeek @casmidlands @MSMakeCode @adgibbs &gt;@terryfreedman @CompAtSch @iconlearningict @AmazingICT_Paul @MsBClarke @EvaFryc @djmaidens](https://nitter.net/amazingict/status/1458382971782799363#m)
+- [Setting up my computer this evening... I am technically both...](https://nitter.net/MrDavisCSIT/status/1446924913852493832#m)
+- [I made a video for my school’s open evening. Take a look at the link below](https://nitter.net/MrDavisCSIT/status/1443635021877743623#m)
+- [Thank you @NEUnion for the opportunity to volunteer for #birminghampride2021. It’s been an Amazon first pride for us](https://nitter.net/MrDavisCSIT/status/1442174099145510914#m)
 <!-- TWEET-POST-LIST:END -->
 
 ---
