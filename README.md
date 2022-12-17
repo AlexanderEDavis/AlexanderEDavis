@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexanderedavis&label=Profile%20views&color=0e75b6&style=flat" alt="alexanderedavis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexanderedavis" alt="alexanderedavis" /></a> </p>
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=alexanderedavis&theme=onestar&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 <p align="left"> <a href="https://twitter.com/mrdaviscsit" target="blank"><img src="https://img.shields.io/twitter/follow/mrdaviscsit?logo=twitter&style=for-the-badge" alt="mrdaviscsit" /></a> </p>
 
