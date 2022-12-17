@@ -8,7 +8,7 @@
 
 ## I'm a Developer and Teacher!
 
-- 🔭 I’m currently working on [resource website for students][website]
+- 🔭 I’m currently working on [resource website for students][reviseit]
 
 - 🌱 I’m currently learning **SQL, HTML5 and CSS3**
 
@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **developing a quiz platform for revision**
 
-- 👨‍💻 All of my projects will be available at [www.adcm.uk](www.adcm.uk) when I get the time to create the site
+- 👨‍💻 All of my projects will be available at [www.adcm.uk][website] when I get the time to create the site
 
 - 💬 Ask me about **what I teach my students**
 
@@ -26,9 +26,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="RevisiQuiz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ADCM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cloudways.svg" />][website]
+[<img align="left" alt="blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
+[<img align="left" alt="ReviseIT" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />][reviseit]
 [<img align="left" alt="MrDavisCSIT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AlexanderEDavis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
 <!--[<img align="left" alt="AlexanderEDavis | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />][pubkey]-->
 
 <br />
@@ -80,7 +83,10 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-[website]: https://www.reviseit.uk
+[website]: https://www.adcm.uk
+[blog]: https://www.mrdaviscsit.uk
+[reviseit]: https://www.reviseit.uk
 [twitter]: https://twitter.com/mrdaviscsit
 [linkedin]: https://www.linkedin.com/in/alexanderedavis/
 [pubkey]: https://raw.githubusercontent.com/AlexanderEDavis/AlexanderEDavis/master/public.asc
+[mastodon]: [https://www.reviseit.uk](https://mstdn.social/invite/yJRiXz4v)
