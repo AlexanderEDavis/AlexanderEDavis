@@ -3,10 +3,9 @@
 ## I'm a Developer and Teacher!
 
 # 💫About Me :
-- 🔭 I’m currently working on [resource website for students][reviseit]
-- 🌱 I’m currently learning **SQL, HTML5 and CSS3**
+- 🔭 I’m currently working on [a website for Computing teachers and students][csbox]
+- 🌱 I’m currently learning **HTML5, CSS3 and JavaScript**
 - 👯 I’m looking to collaborate with **other casual developers and teachers**
-- 🤝 I’m looking for help with **developing a quiz platform for revision**
 - 👨‍💻 All of my projects will be available at [www.adcm.uk][website] when I get the time to create the site
 - 💬 Ask me about **what I teach my students**
 - 📫 You can reach me by emailing **design@adcm.uk**
@@ -48,8 +47,8 @@
 
 [website]: https://www.adcm.uk
 [blog]: https://www.mrdaviscsit.uk
-[reviseit]: https://www.reviseit.uk
+[csbox]: https://csbox.mrdaviscsit.uk
 [twitter]: https://twitter.com/mrdaviscsit
 [linkedin]: https://www.linkedin.com/in/alexanderedavis/
-[pubkey]: https://raw.githubusercontent.com/AlexanderEDavis/AlexanderEDavis/master/public.asc
+<!--- [pubkey]: https://raw.githubusercontent.com/AlexanderEDavis/AlexanderEDavis/master/public.asc --->
 [mastodon]: [https://www.reviseit.uk](https://mstdn.social/invite/yJRiXz4v)
