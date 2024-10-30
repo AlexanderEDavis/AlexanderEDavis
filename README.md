@@ -34,9 +34,7 @@
 
 [<img align="left" alt="ADCM" width="22px" src="https://assets.adcmnetworks.co.uk/img/logo.png" />][website]
 [<img align="left" alt="blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
-<!---[<img align="left" alt="ReviseIT" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />][reviseit]--->
 [<img align="left" alt="MrDavisCSIT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AlexanderEDavis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
 <!--[<img align="left" alt="AlexanderEDavis | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />][pubkey]-->
 
